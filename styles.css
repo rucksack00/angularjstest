@@ -1,0 +1,647 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1440px;
+	 height: 1230px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #To 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1440px;
+	 height: 1164px;
+	 z-index:1;
+} 
+
+ #KsztatNagowek 
+{ 
+	 left: -3px; 
+	 top: -10px; 
+	 position: absolute; 
+	 width: 1447px;
+	 height: 86px;
+	 z-index:2;
+} 
+
+ #ATUT 
+{ 
+	 left: 266px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 24px;
+	 z-index:3;
+} 
+
+ #TwojeBiuroRachunkowe 
+{ 
+	 left: 370px; 
+	 top: 25px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 31px;
+	 z-index:4;
+} 
+
+ #Ksztat5 
+{ 
+	 left: 354px; 
+	 top: 12px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 55px;
+	 z-index:5;
+} 
+
+ #Ksztat8 
+{ 
+	 left: 238px; 
+	 top: 320px; 
+	 position: absolute; 
+	 width: 287px;
+	 height: 274px;
+	 z-index:6;
+} 
+
+ #Ksztat6 
+{ 
+	 left: 238px; 
+	 top: 328px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 259px;
+	 z-index:7;
+} 
+
+ #Ksztat9 
+{ 
+	 left: 242px; 
+	 top: 378px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 4px;
+	 z-index:8;
+} 
+
+ #Ksztat9kopia 
+{ 
+	 left: 245px; 
+	 top: 428px; 
+	 position: absolute; 
+	 width: 247px;
+	 height: 4px;
+	 z-index:9;
+} 
+
+ #Ksztat9kopia2 
+{ 
+	 left: 249px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 4px;
+	 z-index:10;
+} 
+
+ #Ksztat9kopia3 
+{ 
+	 left: 252px; 
+	 top: 528px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 4px;
+	 z-index:11;
+} 
+
+ #layer_3 
+{ 
+	 left: 609px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:12;
+} 
+
+ #OBiurzeRachunkowym 
+{ 
+	 left: 624px; 
+	 top: 39px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 11px;
+	 z-index:13;
+} 
+
+ #3kopia8 
+{ 
+	 left: 783px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:14;
+} 
+
+ #Zakresdziaalnoci 
+{ 
+	 left: 798px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 10px;
+	 z-index:15;
+} 
+
+ #3kopia9 
+{ 
+	 left: 926px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:16;
+} 
+
+ #Ceny 
+{ 
+	 left: 941px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 11px;
+	 z-index:17;
+} 
+
+ #3kopia10 
+{ 
+	 left: 997px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:18;
+} 
+
+ #Kontakt 
+{ 
+	 left: 1013px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 10px;
+	 z-index:19;
+} 
+
+ #3kopia11 
+{ 
+	 left: 1080px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:20;
+} 
+
+ #Przydatnelinki 
+{ 
+	 left: 1096px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 10px;
+	 z-index:21;
+} 
+
+ #Shadow 
+{ 
+	 left: 240px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 961px;
+	 height: 62px;
+	 z-index:22;
+} 
+
+ #Ksztat11 
+{ 
+	 left: 238px; 
+	 top: 112px; 
+	 position: absolute; 
+	 width: 963px;
+	 height: 287px;
+	 z-index:23;
+} 
+
+ #meTCwV8kopia 
+{ 
+	 left: 222px; 
+	 top: 29px; 
+	 position: absolute; 
+	 width: 1001px;
+	 height: 495px;
+	 z-index:24;
+} 
+
+ #Shadow_0 
+{ 
+	 left: 315px; 
+	 top: 206px; 
+	 position: absolute; 
+	 width: 838px;
+	 height: 117px;
+	 z-index:25;
+} 
+
+ #BiuroRachunkoweATUT 
+{ 
+	 left: 331px; 
+	 top: 206px; 
+	 position: absolute; 
+	 width: 660px;
+	 height: 42px;
+	 z-index:26;
+} 
+
+ #LiczeniezostawProfes 
+{ 
+	 left: 378px; 
+	 top: 269px; 
+	 position: absolute; 
+	 width: 766px;
+	 height: 54px;
+	 z-index:27;
+} 
+
+ #Linia 
+{ 
+	 left: 240px; 
+	 top: 704px; 
+	 position: absolute; 
+	 width: 960px;
+	 height: 1px;
+	 z-index:28;
+} 
+
+ #To_0 
+{ 
+	 left: 610px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 578px;
+	 height: 175px;
+	 z-index:29;
+} 
+
+ #Aliquamsemperpellent 
+{ 
+	 left: 629px; 
+	 top: 492px; 
+	 position: absolute; 
+	 width: 536px;
+	 height: 111px;
+	 z-index:30;
+} 
+
+ #WczymmoemyCipom 
+{ 
+	 left: 234px; 
+	 top: 461px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 164px;
+	 z-index:31;
+} 
+
+ #WczymmoemyCipom_0 
+{ 
+	 left: 253px; 
+	 top: 470px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 139px;
+	 z-index:32;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 247px; 
+	 top: 775px; 
+	 position: absolute; 
+	 width: 586px;
+	 height: 197px;
+	 z-index:33;
+} 
+
+ #Layer39kopia 
+{ 
+	 left: 273px; 
+	 top: 907px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 7px;
+	 z-index:34;
+} 
+
+ #Layer39kopia2 
+{ 
+	 left: 273px; 
+	 top: 924px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 7px;
+	 z-index:35;
+} 
+
+ #Layer39kopia3 
+{ 
+	 left: 273px; 
+	 top: 942px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 7px;
+	 z-index:36;
+} 
+
+ #Layer39kopia4 
+{ 
+	 left: 273px; 
+	 top: 960px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 7px;
+	 z-index:37;
+} 
+
+ #BiuroRachunkoweATUT_0 
+{ 
+	 left: 261px; 
+	 top: 735px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 14px;
+	 z-index:38;
+} 
+
+ #Liniakopia 
+{ 
+	 left: 869px; 
+	 top: 723px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 339px;
+	 z-index:39;
+} 
+
+ #linku 
+{ 
+	 left: 725px; 
+	 top: 1021px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 1px;
+	 z-index:40;
+} 
+
+ #Dowiedzsiwiecej 
+{ 
+	 left: 728px; 
+	 top: 1008px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 12px;
+	 z-index:41;
+} 
+
+ #Shape11 
+{ 
+	 left: 819px; 
+	 top: 1005px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 18px;
+	 z-index:42;
+} 
+
+ #Layer39 
+{ 
+	 left: 826px; 
+	 top: 1011px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 7px;
+	 z-index:43;
+} 
+
+ #Zaufalinam 
+{ 
+	 left: 260px; 
+	 top: 1047px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 13px;
+	 z-index:44;
+} 
+
+ #Liniakopia2 
+{ 
+	 left: 240px; 
+	 top: 1081px; 
+	 position: absolute; 
+	 width: 960px;
+	 height: 1px;
+	 z-index:45;
+} 
+
+ #Paradisebezcieni 
+{ 
+	 left: 892px; 
+	 top: 1104px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 32px;
+	 z-index:46;
+} 
+
+ #Warstwa1 
+{ 
+	 left: 587px; 
+	 top: 1097px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 44px;
+	 z-index:47;
+} 
+
+ #malydesignv01 
+{ 
+	 left: 358px; 
+	 top: 1103px; 
+	 position: absolute; 
+	 width: 194px;
+	 height: 34px;
+	 z-index:48;
+} 
+
+ #Logo 
+{ 
+	 left: 730px; 
+	 top: 1105px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 32px;
+	 z-index:49;
+} 
+
+ #Chceszsidowiedziewie 
+{ 
+	 left: 919px; 
+	 top: 743px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 85px;
+	 z-index:50;
+} 
+
+ #Tel0443344345 
+{ 
+	 left: 899px; 
+	 top: 858px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 23px;
+	 z-index:51;
+} 
+
+ #Tel0443344345_0 
+{ 
+	 left: 918px; 
+	 top: 860px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 19px;
+	 z-index:52;
+} 
+
+ #Cien 
+{ 
+	 left: 991px; 
+	 top: 944px; 
+	 position: absolute; 
+	 width: 211px;
+	 height: 96px;
+	 z-index:53;
+} 
+
+ #fotolia19265079kopia 
+{ 
+	 left: 990px; 
+	 top: 914px; 
+	 position: absolute; 
+	 width: 211px;
+	 height: 151px;
+	 z-index:54;
+} 
+
+ #fotolia19265079 
+{ 
+	 left: 999px; 
+	 top: 889px; 
+	 position: absolute; 
+	 width: 197px;
+	 height: 101px;
+	 z-index:55;
+} 
+
+ #Ksztaltstopka 
+{ 
+	 left: -1px; 
+	 top: 1162px; 
+	 position: absolute; 
+	 width: 1454px;
+	 height: 88px;
+	 z-index:56;
+} 
+
+ #CopyrightBiurorachun 
+{ 
+	 left: 892px; 
+	 top: 1190px; 
+	 position: absolute; 
+	 width: 308px;
+	 height: 11px;
+	 z-index:57;
+} 
+
+ #StronaGwnaZakresDzia 
+{ 
+	 left: 238px; 
+	 top: 1189px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 12px;
+	 z-index:58;
+} 
+
+ #Ksztat1 
+{ 
+	 left: 355px; 
+	 top: 465px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 92px;
+	 z-index:59;
+} 
+
+ #Ksztat2 
+{ 
+	 left: 461px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 105px;
+	 z-index:60;
+} 
+
+ #Ksztat2kopia 
+{ 
+	 left: 580px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 105px;
+	 z-index:61;
+} 
+
+ #Ksztat2kopia2 
+{ 
+	 left: 695px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 105px;
+	 z-index:62;
+} 
+
+ #Ksztat2kopia3 
+{ 
+	 left: 810px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 105px;
+	 z-index:63;
+} 
